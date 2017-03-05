@@ -1,5 +1,7 @@
 # image-sizer
-An image sizing script written in Python 3
+An image sizing script written in Python 3.
+
+Created for use with this masonry grid https://github.com/labelle/image-sizer
 
 ## Introduction
 
