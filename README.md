@@ -3,6 +3,8 @@ An image sizing script written in Python 3.
 
 Created for use with this masonry grid https://github.com/labelle/grid-masonry-multires-images
 
+Helpful tip: If setting up your mac environment for Python 3, try following these instructions first http://www.pyladies.com/blog/Get-Your-Mac-Ready-for-Python-Programming/
+
 ## Introduction
 
 sizer_image.py code resizes the image is as per user input and and organizes them in separate folders. Features include: 
